@@ -1,20 +1,43 @@
-## Welcome to GitHub Pages
+## Explore My Netflix Watchlist
+
+ All alone on a Friday night. Don't worry if you have Netflix (if you don't just get your friend's username and password) and the correct watchlist depending upon you mood (which is this), you are good to go to enjoy the evening in your PJs and in a land far far away!! 
 
 You can use the [editor on GitHub](https://github.com/pluthra2/SoftwareCarpentryWC3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### RomCom 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These are my all time favourites movies and series...
 
 ```markdown
-Syntax highlighted code block
+# MOVIES
+1. To all the boys I have loved before 
+2. Set it Up
+3. Ugly Truth
+ 
+# Series
+1. The Good Place
+2. Riverdale
+3. Chilling Adventures of Sabrina
 
-# Header 1
-## Header 2
-### Header 3
+```
+### Thriller and Suspense
+```markdown
+# Movies
+1. I am Mother
+2. Andhadhun
+3. Bird Box
 
+# Series
+1. 13 Reasons Why
+2. YOU
+3. Money Heist
+4. Another Life
+3. Stranger Things
+
+```
+If you want to know more, CONTACT ME!
 - Bulleted
 - List
 
@@ -28,10 +51,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pluthra2/SoftwareCarpentryWC3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The Netflix Guide - thenetflixg@jhu.edu
