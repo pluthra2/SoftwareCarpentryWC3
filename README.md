@@ -12,7 +12,7 @@ MOVIES
 2. Set it Up
 3. Ugly Truth
  
-Series
+SERIES
 1. The Good Place
 2. Riverdale
 3. Chilling Adventures of Sabrina
@@ -20,12 +20,12 @@ Series
 ```
 ### Thriller and Suspense
 ```markdown
-Movies
+MOVIES
 1. I am Mother
 2. Andhadhun
 3. Bird Box
 
-Series
+SERIES
 1. 13 Reasons Why
 2. YOU
 3. Money Heist
