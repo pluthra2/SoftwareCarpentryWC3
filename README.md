@@ -7,12 +7,12 @@
 These are my all time favourites movies and series...
 
 ```markdown
-# MOVIES
+MOVIES
 1. To all the boys I have loved before 
 2. Set it Up
 3. Ugly Truth
  
-# Series
+Series
 1. The Good Place
 2. Riverdale
 3. Chilling Adventures of Sabrina
@@ -20,12 +20,12 @@ These are my all time favourites movies and series...
 ```
 ### Thriller and Suspense
 ```markdown
-# Movies
+Movies
 1. I am Mother
 2. Andhadhun
 3. Bird Box
 
-# Series
+Series
 1. 13 Reasons Why
 2. YOU
 3. Money Heist
